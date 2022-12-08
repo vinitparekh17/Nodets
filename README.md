@@ -8,7 +8,7 @@ A Simple Node application boilerplate with typescript integration.
 
 # Technologies
 <ul>
-<li>NodeJS<li>
-<li>ExpressJS<li>
-<li>TypeScript<li>
+NodeJS
+ExpressJS
+TypeScript
 </ul>
